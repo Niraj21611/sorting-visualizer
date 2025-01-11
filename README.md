@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-A GUI based sorting visualizer with real time statistics for above algorithms, 
+A GUI-based sorting visualizer with real-time statistics for the above algorithms, 
 Bubble sort,
 Merge sort,
 Insertion sort,
@@ -46,9 +46,9 @@ Follow these steps to set up the project locally:
 ---
 
 ## How to use
-- 1) Input the array capacity by typing on the Capacity field
-- 2) Click "Create Array" to generate the array
-- 3) Adjust the speed of the visualization by dragging the FPS slider
-- 4) Click the corresponding button to visualize an algorithm.
+- Input the array capacity by typing on the Capacity field
+- Click "Create Array" to generate the array
+- Adjust the speed of the visualization by dragging the FPS slider
+- Click the corresponding button to visualize an algorithm.
 
 ---
